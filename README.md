@@ -17,7 +17,7 @@ My passion for detail and clean code drives me to constantly learn and improve.
 ## 🧑‍💻 Talking about Personal Stuffs:
 - 💬 I am a Full-Stack Web Developer
 - 📫 How to reach me: **patodiyaravi680@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1-YhY85guftf8GS4hHnXFufKtAbA8q3bu/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1-YhY85guftf8GS4hHnXFufKtAbA8q3bu/view?usp=drive_link)
 - 🌐 [Portfolio](https://ravikant-khati-portfolio.netlify.app/)
 
 ---
